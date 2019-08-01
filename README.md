@@ -1,5 +1,8 @@
 # Tensorflow Study Example
-"흐음..?"
+
+수정사항
+
+
 # Version Info
 * Python3.6
 * Tensorflow1.10
