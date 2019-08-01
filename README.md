@@ -1,6 +1,6 @@
 # Tensorflow Study Example
 
-¼öÁ¤»çÇ×
+"ì´ì œ ìˆ˜ì • ë¬ë‹¤"
 
 
 # Version Info
